@@ -41,8 +41,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/php-todo-list.git
-   cd php-todo-list
+   git clone https://github.com/divyang9991/WT_TodoList.git
 
 
 ##  Team Members
