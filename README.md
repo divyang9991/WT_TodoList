@@ -50,4 +50,4 @@
 | -------------------- | ----------------------------- | --------------------------------------------------------- |
 | **Divyang Tomar**    | Frontend & Backend            | [Github](https://github.com/divyang9991)                  |
 | **Kishan Patel**     | Frontend & Backend            | [Github](https://github.com/kdp-dev-pa)                   |
-| **ruthviraj pasee**  | Backend                       | [Github](https://github.com/PruthvirajPasee0)             |
+| **Pruthviraj pasee** | Backend                       | [Github](https://github.com/PruthvirajPasee0)             |
